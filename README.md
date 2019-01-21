@@ -11,3 +11,6 @@ Pour commencer, clonez ce dépôt sur votre machine locale :
 https://github.com/Loukoulele/Python-P4.git
 cd Python-P4
 ```
+Ensuite installez PyGame:
+```
+python -m pip install pygame
