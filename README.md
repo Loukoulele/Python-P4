@@ -8,6 +8,6 @@ Démonstration de du Puissance 4 :
 
 Pour commencer, clonez ce dépôt sur votre machine locale :
 ```
-+ https://github.com/Loukoulele/Python-P4.git
-+ cd Python-P4
+https://github.com/Loukoulele/Python-P4.git
+cd Python-P4
 ```
