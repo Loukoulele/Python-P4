@@ -1,1 +1,3 @@
-# Python-P4
+# Développez facilement votre premièr jeu vidéo Python avec PyGames !
+
+https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67
